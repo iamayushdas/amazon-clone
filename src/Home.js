@@ -10,17 +10,25 @@ function Home() {
                 src="https://images-eu.ssl-images-amazon.com/images/G/31/AmazonVideo/2021/X-site/Multititle/Feb/EN/1500x600_Hero-Tall_01_FT._CB658235929_.jpg"
                  alt="banner" />
 
-                 <div className="nome_row">
+                 <div className="home_row">
+                    <Product 
+                    title='The lean startup' 
+                    price={29.99} 
+                    image={
+                       "https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL.AC_SY400.jpg"
+                    }
+                    rating={5}
+                    />
+                    
                     <Product />
-                    {/* <Product /> */}
                  </div>
                  <div className="home_row">
-                    {/* product */}
-                    {/* product */}
-                    {/* product */}
+                     <Product />
+                     <Product />
+                     <Product />
                  </div>
                  <div className="home_row">
-                    {/* product */}
+                     <Product />
                  </div>
             </div>
             
