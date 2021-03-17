@@ -12,6 +12,10 @@
     z-index: 1;
 }
 
+.product_rating{
+    display: flex;
+}
+
 .product_price{
     margin-top: 5px;
 }
