@@ -13,10 +13,10 @@ function Home() {
                  <div className="home_row">
                     <Product
                     id="12321341" 
-                    title='The lean startup' 
+                    title='Apple MacBook Pro (13-inch, 8GB RAM, 256GB SSD, 1.4GHz Quad-core 8th-Generation Intel Core i5 Processor, Magic Keyboard) - Space Grey' 
                     price={29.99} 
                     image={
-                       "https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._AC_SY400_.jpg"
+                       "https://images-na.ssl-images-amazon.com/images/I/71YRSVXhgQL._SL1500_.jpg"
                     }
                     rating={5}
                     />
@@ -62,13 +62,13 @@ function Home() {
                  </div>
                  <div className="home_row">
                      <Product
-                    id="12321341" 
-                    title='' 
-                    price={598.8} 
+                    id="90829332" 
+                    title='Samsung LC49HG90DMUXEN 48.9-inch Ultra Wide Curved Monitor (Black)' 
+                    price={1094.98} 
                     image={
-                       "https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL.AC_SY400.jpg"
+                       "https://images-na.ssl-images-amazon.com/images/I/71MlcO29QOL._SL1500_.jpg"
                     }
-                    rating={5}
+                    rating={4}
                     />
                  </div>
             </div>
