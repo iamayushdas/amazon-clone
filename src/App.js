@@ -7,14 +7,14 @@ function App() {
   return (
     <Router>
       <div className="app">
-      <Header />
+        <Header />
         <Switch>
-        <Route path="/checkout">
-            
+          <Route
+          ></Route>
+          <Route path="/checkout">
             <Checkout />
           </Route>
           <Route path="/">
-            
             <Home />
           </Route>
         </Switch>
